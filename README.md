@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivarama192093
+- 👋 Hi, I’m @shivarama93
 - 👀 I’m interested in Deep Learning, Computer Vision and Image Processing
 - 📫 How to reach me: shivaram.holla@gmail.com
 
